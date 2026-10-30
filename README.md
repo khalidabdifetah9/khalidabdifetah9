@@ -1,16 +1,13 @@
-## Hi there 👋
+ Hey, I'm Kalid 👋
 
-<!--
-**khalidabdifetah9/khalidabdifetah9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer | UI/UX Enthusiast
 
-Here are some ideas to get you started:
+I build web applications from pixels to databases. I care about clean code, thoughtful design, and making every click do something.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Stack: React, Next.js, Node.js, PostgreSQL, Prisma, Tailwind CSS.Drizzle,Better Auth
+- 🎨 Into: UI/UX, creative web experiences, and solving problems, E-Commerce , ERP,AWS,SEO,CMS,GEO 
+- 🚀 Building: Projects that look good and actually work
+- 🐛 Currently: Fixing bugs I swear I didn't create
+
+Let's build something cool.
+
